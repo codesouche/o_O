@@ -1,4 +1,4 @@
-# o_O
+o_O
 
 une application qui ne sert à rien et qui ne fait rien. 
 pas de mise à jours
